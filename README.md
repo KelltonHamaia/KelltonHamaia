@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KelltonHamaia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on being a front-end developer...
-- 📫 How to reach me ...
 
-<!---
-KelltonHamaia/KelltonHamaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=BE123C&random=false&width=1000&height=94&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kellton;Tenho+20+anos+;E++sou+um+desenvolvedor+de+software+Fullstack)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KelltonHamaia&theme=tokyonight-duo)](https://git.io/streak-stats)
