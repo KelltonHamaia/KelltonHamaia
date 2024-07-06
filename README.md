@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Kellton,  I'm 20 yo, and I'm from Brazil!<br>I'm a fullstack developer,  but currently I'm working as basic english and informatic teacher!<br>I'm currently graduating in Internet systems technologies, from the Instituto Federal Do Paraná - Campus Jacarezinho, and I'm in the fourth semester.<br>My dream is to have a job being a software developer, but while this is (still) not a reality, I'm working as a basic english and basic informatic teacher for kids, at my town. <br>
+Hello! My name is Kellton,  I'm 20 yo, and I'm from Brazil!<br>I'm a fullstack developer,  but currently I'm working as basic english and informatic teacher!<br>I'm currently graduating in Internet systems technologies, from the Instituto Federal Do Paraná - Campus Jacarezinho, and I'm in the fourth semester.<br>My dream is to have a job being a software developer, but while this is (still) not a reality, I'm working as a basic english and basic informatic teacher for kids, at my town. Please, feel free to explore all of the repos and stuff!<br>
 
 
 ## 🌐 Socials:
