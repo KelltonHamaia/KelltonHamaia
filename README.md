@@ -1,7 +1,6 @@
 # 💫 About Me:
-Hello! My name is Kellton,  I'm 20 yo, and I'm from Brazil!<br>I'm a fullstack developer, but with a little more passion for the front-end side!
- I'm currently graduating in Internet systems technologies, from the Instituto Federal Do Paraná - Campus Jacarezinho, and I'm in the fourth semester.<br>My dream is to have a job being a software developer, but while this is (still) not a reality, I'm working as a basic english and basic informatic teacher for kids, at my town. Please, feel free to explore all of the repos and stuff!<br>
-
+Hello! My name is Kellton,  I'm 21 yo, and I'm from Brazil!<br>I'm a fullstack developer, but with a little more passion for the frontend!
+I'm currently graduating in Internet systems technologies at Instituto Federal Do Paraná - Campus Jacarezinho, and I'm on the last semester.<br>Currently I work as a software developer at Vexur, a software enterprise at my town, also I'm an english and basic informatic teacher for kids, at my town as well. Please, feel free to explore all of the repos and stuff!<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kellnys) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kellton.hamaia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kellton_arai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelltonhamaia) 
