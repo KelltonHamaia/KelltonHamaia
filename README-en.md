@@ -12,7 +12,7 @@ I'm a Full Stack Developer continuously improving my technical skills to contrib
 
 ## About me
 
-👔 Currently working at Vexur;
+👔 Currently working at [Vexur](https://vexur.net/);
 
 📚 Graduated with Academic Honors in Internet Systems Technology from the Federal Institute of Paraná (IFPR);
 
