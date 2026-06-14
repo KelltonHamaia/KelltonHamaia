@@ -10,7 +10,7 @@ Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para 
 
 🔌 APIs REST utilizando Node.js (javascript e typescript), e suas principais bibliotecas como o express e fastify;
 
-💾 Armazenamento em bancos de dados orientado a grafos.
+💾 Armazenamento em bancos de dados utilizando Neo4j (orientado a grafos).
 
 ## Sobre mim
 
@@ -21,3 +21,4 @@ Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para 
 🎓 Sou formado técnico em Desenvolvimento de Sistemas pelo Instituto Federal do Paraná;
 
 🎖️ Gosto de aprender de tudo um pouco, desde idiomas, tecnologias, e assuntos aleatórios da vida que aparecem nas conversas do acaso.
+
