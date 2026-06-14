@@ -3,7 +3,7 @@
 
 Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para contribuir positivamente e impactar vidas através da programação.
 
-#### Atualmente eu
+## Atualmente eu
 
 🌐 Trabalho com Desenvolvimento Web front-end com React, Vue.js (2 e 3), e suas bibliotecas de estilo Vuetify(2), Tailwindcss e Shadcn (UI e /VUE);
 
@@ -11,7 +11,7 @@ Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para 
 
 💾 Armazenamento em bancos de dados orientado a grafos.
 
-#### Sobre mim
+## Sobre mim
 
 👔 Trabalho atualmente na Vexur;
 
