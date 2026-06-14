@@ -14,7 +14,7 @@ Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para 
 
 ## Sobre mim
 
-👔 Trabalho atualmente na Vexur;
+👔 Trabalho atualmente na [Vexur](https://vexur.net/);
 
 📚 Graduado com láurea acadêmica em Tecnologias em Sistemas para Internet pelo Instituto Federal do Paraná;
 
