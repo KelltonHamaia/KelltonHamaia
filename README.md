@@ -1,5 +1,4 @@
-
-#### Olá! Kellton aqui o/
+## Olá! Kellton aqui o/
 
 Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para contribuir positivamente e impactar vidas através da programação.
 
