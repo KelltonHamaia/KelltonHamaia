@@ -8,7 +8,7 @@ Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para 
 
 🌐 Trabalho com Desenvolvimento Web front-end com React, Vue.js (2 e 3), e suas bibliotecas de estilo Vuetify(2), Tailwindcss e Shadcn (UI e /VUE);
 
-🔌 APIs REST utilizando Node.js (javascript e typescript), e suas principais bibliotecas como o express e fastify;
+🔌 APIs REST utilizando Node.js (javascript e typescript), e suas principais bibliotecas como express e fastify;
 
 💾 Armazenamento em bancos de dados e modelagem de dados utilizando Neo4j (orientado a grafos).
 
