@@ -1,5 +1,5 @@
 ## Olá! Kellton aqui o/
-*[Don't speak portuese? Check the english version](https://github.com/KelltonHamaia/KelltonHamaia/blob/main/README-en.md)*
+*[Don't speak portuguese? Check the english version](https://github.com/KelltonHamaia/KelltonHamaia/blob/main/README-en.md)*
 
 
 Atuo como desenvolvedor fullstack, melhorando minhas habilidades técnicas para contribuir positivamente e impactar vidas através da programação.
